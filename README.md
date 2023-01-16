@@ -1,5 +1,9 @@
 # Wireless-Sensor-Networks-Simulation
-This repository contains the simulation of the energy-efficient communication protocol for wireless microsensor networks presented in the paper "Energy-Efficient Communication Protocol for Wireless Microsensor Networks" by W. R. Heinzelman, A. Chandrakasan, and H. Balakrishnan.
+This repository contains code for simulating the LEACH and Direct protocols for wireless sensor networks. The simulation is based on the paper "Energy-Efficient Communication Protocol for Wireless Microsensor Networks".
+
+In addition to the code for simulating the protocols, the repository also includes code for creating animations of the progress of clusters and how they change each round, as well as an animation comparison between the lifetime of the LEACH and Direct protocols.
+
+The code is written in Python and uses the NumPy and Matplotlib libraries.
 
 # Included in this repository
 * Code for simulating the LEACH protocol
